@@ -1,4 +1,4 @@
-name: Java CIcwith Maven
+name: Java CI with Maven
 
 # Controls when the workflow will run
 on: [push, pull_request]
